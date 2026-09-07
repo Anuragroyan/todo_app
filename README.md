@@ -1,5 +1,9 @@
-# 📝 Todo App is a Flutter application that demonstrates building a task management app using Flutter’s built-in features and widgets. It allows users to create, view, edit, and delete tasks while showcasing Flutter fundamentals, state management, and interactive UI components.
+# 📝 Todo App 
+
+# Todo App is a Flutter application that demonstrates building a task management app using Flutter’s built-in features and widgets. It allows users to create, view, edit, and delete tasks while showcasing Flutter fundamentals, state management, and interactive UI components.
+
 # Screenshots
+
 ![Screenshot_20240909-010315](https://github.com/user-attachments/assets/523520ce-52a6-4489-b90f-43ea71675128)
 ![Screenshot_20240909-010312](https://github.com/user-attachments/assets/d8b4af78-c85c-4d77-8345-7f6a11051469)
 ![Screenshot_20240909-010008](https://github.com/user-attachments/assets/b441c670-0334-4d70-b338-65f8b38f3bf4)
